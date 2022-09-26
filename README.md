@@ -8,7 +8,7 @@
         </li>
         <br>
         <li>
-            backend資料夾存放Spring Boot原始碼， frontend資料夾存放React.js原始碼
+            backend資料夾存放後端原始碼， frontend資料夾存放前端原始碼
         </li>
         <br>
         <li>
